@@ -9,5 +9,3 @@ In the project directory, you can run:
 ### `npm install`
 
 ## NFT Contracts
-
-RPC URL : https://ghostnet.smartpy.io
